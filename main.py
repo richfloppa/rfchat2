@@ -8,7 +8,7 @@ from keep_alive import keep_alive
 keep_alive()
 
 intents = discord.Intents.all()
-prefixes = ["r!", "R!"]
+prefixes = ["&"]
 bot = commands.Bot(command_prefix=prefixes, intents=intents)
 
 async def fetch_user_messages(session, channel, author, mentions, history_limit):

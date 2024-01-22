@@ -40,7 +40,7 @@ async def process_message(message, bot_emojis, cleaned_content):
                 "Wheel_No", "Wheel_No1", "Wheel_No2", "Wheel_No3", "Wheel_No4", "Wheel_No5",
                 "Wheel_No6", "Wheel_Yes", "Wheel_Yes1", "Wheel_Yes2", "Wheel_Yes3", "Wheel_Yes4",
                 "Wheel_Yes5", "Wheel_Yes6", "Wheel_Yes7", "Wherl_No7", "gatito_loading", "no",
-                "sucess", "yes", "check", "outputonlinegiftools", "christimas_floppa_enter", "christimas_floppa_exit", "floppa_enter", "floppa_enter", "alert2", "3_", "1_", "2_"
+                "sucess", "yes", "check", "outputonlinegiftools", "christimas_floppa_enter", "christimas_floppa_exit", "floppa_enter", "floppa_enter", "alert2", "3_", "1_", "2_", "loading"
             ]
 
             # Get a random emoji from any server the bot has joined (excluding the specified ones)
